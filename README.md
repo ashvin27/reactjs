@@ -1,1 +1,1 @@
-# reactjs with redux
+# reactjs
